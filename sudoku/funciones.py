@@ -12,10 +12,6 @@ def comprovarCuadrado(tablero, fila, columna):
     "Funcion que comprueba si el cuadrado especificado es valido"
     ...
 
-def crearUnTablero():
-    "Funcion que sirve para crear un tablero y devolverlo."
-    ...
-
-def inicializarTablero(tablero):
-    "Funcion que sirve para inicializar un tablero que se le pasa por parametro."
+def crearYInicializarUnTablero():
+    "Funcion que sirve para crear y inicializar un tablero y devolverlo."
     ...
