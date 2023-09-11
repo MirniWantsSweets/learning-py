@@ -8,3 +8,5 @@ env.bak/
 venv.bak/
 
 **/.vscode
+**/.DS_Store*
+**/__pycache__*
